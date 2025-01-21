@@ -1,5 +1,6 @@
 # PapiAlan
+participants:
 
-* Alan Fuentes
+Papi Deni
+Papi Fuentes
 
-* Deni Velasquez
